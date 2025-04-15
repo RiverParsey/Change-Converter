@@ -1,0 +1,18 @@
+.container {
+  font-family: sans-serif;
+  max-width: 700px;
+  padding: 20px;
+  margin: auto;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.block {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+}
